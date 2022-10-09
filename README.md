@@ -4,7 +4,7 @@
 
 - <b>Data Structures (Java)</b>
   - [AVL Tree](https://github.com/YaarKoren/AVL-Tree/blob/main/README.md)
-  - [Fibonacci Heap](COPY LINK HERE)
+  - [Fibonacci Heap](https://github.com/YaarKoren/Fibonacci-Heap)
 - <b>Machine Learning Algorithm (Python, C, Python/C API)</b>
   - [Normalized Spectral Clustering Algorithm](https://github.com/YaarKoren/Normalized-Spectral-Clustering-Algorithm)
 

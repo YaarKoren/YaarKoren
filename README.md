@@ -6,7 +6,7 @@
   - [AVL Tree](COPY LINK HERE)
   - [Fibonacci Heap](COPY LINK HERE)
 - <b>Machine Learning Algorithm (Python, C, Python/C API)</b>
-  - [normalized spectral clustering algorithm](](COPY LINK HERE) 
+  - [normalized spectral clustering algorithm](https://github.com/YaarKoren/Normalized-Spectral-Clustering-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>

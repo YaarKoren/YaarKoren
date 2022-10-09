@@ -15,7 +15,8 @@
 [<img align="left" alt="YaarKoren | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][Gmail]
 
 [linkedin]: https://www.linkedin.com/in/yaar-koren-3a5a901b6/
-[Gmail]: malito:korenyaara@gmail.com
+[Gmail]: <a href="mailto:korenyaara@gmail.com">Link text</a>
+
 
 
 <!--

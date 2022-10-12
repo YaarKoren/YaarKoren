@@ -11,11 +11,14 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="YaarKoren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="YaarKoren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="YaarKoren | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][Gmail]
+
+  
 
 [linkedin]: https://www.linkedin.com/in/yaar-koren-3a5a901b6/
 
-[Gmail](mailto:korenyaar@gmail.com)
+[Gmail]: mailto:korenyaar@gmail.com
 
 <!--
 **YaarKoren/YaarKoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

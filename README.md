@@ -13,7 +13,7 @@
 
 [<img align="left" alt="YaarKoren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/yaar-koren-3a5a901b6/
+[linkedin] (https://www.linkedin.com/in/yaar-koren-3a5a901b6/)
 
 [Gmail](https://www.linkedin.com/in/yaar-koren-3a5a901b6/)
 

@@ -15,7 +15,7 @@
 
 [linkedin]: https://www.linkedin.com/in/yaar-koren-3a5a901b6/
 
-
+[Gmail](mailto:korenyaara@gmail.com)
 
 <!--
 **YaarKoren/YaarKoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,7 +11,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="YaarKoren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="YaarKoren | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin] 
 [<img align="left" alt="YaarKoren | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail] 
 
 

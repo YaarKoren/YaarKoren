@@ -1,9 +1,11 @@
-<h1>Hi, I'm Yaar <br/>Computer Science student at Tel Aviv University
+<h1>Hi, I'm Yaar <br/>Computer Science graduate from Tel Aviv University
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>C++ Project </b>
+  - [Battle Game](https://github.com/YaarKoren/Battle-Game)
 - <b>Data Structures (Java)</b>
-  - [AVL Tree](https://github.com/YaarKoren/AVL-Tree/blob/main/README.md)
+  - [AVL Tree](https://github.com/YaarKoren/AVL-Tree)
   - [Fibonacci Heap](https://github.com/YaarKoren/Fibonacci-Heap)
 - <b>Machine Learning Algorithm (Python, C, Python/C API)</b>
   - [Normalized Spectral Clustering Algorithm](https://github.com/YaarKoren/Normalized-Spectral-Clustering-Algorithm)

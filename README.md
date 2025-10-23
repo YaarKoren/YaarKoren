@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C++ Project </b>
+    Multi-threaded tank battle simulator with plugin-based architecture, esigned with two independent components: Game Manager and desicion-making algorithm, and a Simulator for running and comparing them. The project was part of the TAU course, Advanced Topics in Programming.
   - [Battle Game](https://github.com/YaarKoren/Battle-Game)
 - <b>Data Structures (Java)</b>
   - [AVL Tree](https://github.com/YaarKoren/AVL-Tree)

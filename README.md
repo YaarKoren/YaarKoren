@@ -2,9 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects</h2>
 
+- <b>Unity Game </b>
+
+   - [Match-3 Game](https://github.com/YaarKoren/BasicBitchMatch3) - A Match-3 puzzle game developed in a team of three during the Queen B Game Development Bootcamp.
+   Created in just one week under tight deadlines, the game follows OOP and SOLID principles, includes full UI/UX design, and was built for Android with live play-testing.
+
 - <b>C++ Project </b>
 
-   
   - [Battle Game](https://github.com/YaarKoren/Battle-Game) - 
      Multi-threaded tank battle simulator with plugin-based architecture, designed with two independent components: Game Manager and decision-making algorithm, and a Simulator for running and comparing them. The project was part of TAU course "Advanced Topics in Programming", emphasizing modularity, concurrency, and dynamic linking.
 - <b>Data Structures (Java)</b>

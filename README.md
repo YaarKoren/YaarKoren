@@ -1,20 +1,23 @@
 <h1>Hi, I'm Yaar <br/>Computer Science graduate from Tel Aviv University
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 
 - <b>C++ Project </b>
 
    
   - [Battle Game](https://github.com/YaarKoren/Battle-Game) - 
-     Multi-threaded tank battle simulator with plugin-based architecture, designed with two independent components: Game Manager and decision-making algorithm, and a Simulator for running and comparing them. The project was part of the TAU course "Advanced Topics in Programming", emphasizing modularity, concurrency, and dynamic linking.
+     Multi-threaded tank battle simulator with plugin-based architecture, designed with two independent components: Game Manager and decision-making algorithm, and a Simulator for running and comparing them. The project was part of TAU course "Advanced Topics in Programming", emphasizing modularity, concurrency, and dynamic linking.
 - <b>Data Structures (Java)</b>
   - [AVL Tree](https://github.com/YaarKoren/AVL-Tree)
   - [Fibonacci Heap](https://github.com/YaarKoren/Fibonacci-Heap)
 - <b>Machine Learning Algorithm (Python, C, Python/C API)</b>
   - [Normalized Spectral Clustering Algorithm](https://github.com/YaarKoren/Normalized-Spectral-Clustering-Algorithm)
 
+<h2>📚 Academic Papers </h2> 
 
-<h2> 🤳 Connect with me:</h2>
+   - [Metadata-Driven Hybrid Search for Enhanced TAU Online Tutor](https://github.com/YaarKoren/Metadata-Hybrid-Search-LLM-TAU-Tutor) - The paper presents an enhancement to TAU Online Tutor, an AI-powered educational assistant designed to support the university students, by integrating metadata based querying into a RAG framework. This was the final paper of TAU "Workshop On Applying LLM to Education".
+
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="YaarKoren | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin] 
 [<img align="left" alt="YaarKoren | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail] 

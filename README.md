@@ -19,7 +19,7 @@
 
 <h2>📚 Academic Papers </h2> 
 
-   - [Metadata-Driven Hybrid Search for Enhanced TAU Online Tutor](https://github.com/YaarKoren/Metadata-Hybrid-Search-LLM-TAU-Tutor) - The paper presents an enhancement to TAU Online Tutor, an AI-powered educational assistant designed to support the university students, by integrating metadata based querying into a RAG framework. This was the final paper of TAU "Workshop On Applying LLM to Education".
+   - [Metadata-Driven Hybrid Search for Enhanced TAU Online Tutor](https://github.com/YaarKoren/Metadata-Hybrid-Search-LLM-TAU-Tutor) - The paper presents an enhancement to TAU Online Tutor, an AI-powered educational assistant designed to support the university students, by integrating metadata based querying into a RAG framework. This was the final paper of TAU "Workshop On Applying LLM to Education", graded 97.
 
 <h2> 🤳 Connect with me</h2>
 

@@ -24,7 +24,7 @@
 <h2>📒 Academic Course Notes (Personal Summaries) </h2> 
 A collection of my personal, unofficial summaries for several Computer Science courses I enjoyed during my B.Sc. at Tel Aviv University.
 These summaries were created for my own learning, but they ended up helping many classmates.
-The notes are written in Hebrew, my native language and the language the courses were taught in.   
+Written in Hebrew, my native language and the language the courses were taught in.   
 Links to Google Drive folders:
 
    - [Introduction to Computational Learning Theory](https://drive.google.com/drive/folders/1aW8iq4pBY-E_DljPKWTB6IHj-l9XYSRX?usp=drive_link)

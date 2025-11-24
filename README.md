@@ -10,7 +10,7 @@
 - <b>C++ Project </b>
 
   - [Battle Game](https://github.com/YaarKoren/Battle-Game) - 
-     Multi-threaded tank battle simulator with plugin-based architecture, designed with two independent components: Game Manager and decision-making algorithm, and a Simulator for running and comparing them. The project was part of TAU course "Advanced Topics in Programming", emphasizing modularity, concurrency, and dynamic linking.
+     Multi-threaded tank battle simulator with plugin-based architecture, designed with two independent components: One is  the game, consists of Game Manager and decision-making algorithm, and the second is a Simulator for running and comparing different game managers and different algorithms. The project was part of TAU course "Advanced Topics in Programming", emphasizing modularity, concurrency, and dynamic linking.
 - <b>Data Structures (Java)</b>
   - [AVL Tree](https://github.com/YaarKoren/AVL-Tree)
   - [Fibonacci Heap](https://github.com/YaarKoren/Fibonacci-Heap)
